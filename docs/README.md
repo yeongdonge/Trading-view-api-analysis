@@ -1,6 +1,6 @@
 # 트레이딩 뷰 api 분석 레포지토리입니다.
 
-### 아래 내용은 원븐 Readme입니다 ( Below is the original Readme.)
+### 아래 내용은 원본 Readme입니다 (Below is the original Readme.)
 ### Source : https://kr.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/
 ----------
 ## Installation
