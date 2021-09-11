@@ -1,8 +1,0 @@
-!.eslintrc.js
-!.size-limit.js
-!.mocharc.js
-
-/dist/**
-/lib/**
-
-**/node_modules
