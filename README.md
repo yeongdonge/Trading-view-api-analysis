@@ -1,6 +1,7 @@
 # Trading-view-api-analysis
 
 
+
 ----------
 
 
